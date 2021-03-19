@@ -1,0 +1,418 @@
+                                 Name    Score
+                                         5 - Highly rewatchable, all time gold, Whoop-whoop!
+                                         4 - Great
+                                         3 - Good
+                                         2 - Decent but forgettable
+                                         1 - Bad; watchable if nothing else to do
+                                         0 - Not on this list
+
+/*------------------------------------------------------------------*/
+// Action section
+
+                   Inglorious Basterds       5
+                    Mad Max: Fury Road       5
+                       The Dark Knight       5
+                           John Wick 1       5
+
+                         Batman Begins       4
+                      Django Unchained       4
+                               Sicario       4
+                      Edge of Tomorrow       4
+                              Die Hard       4
+                           Pacific Rim       4
+                              Watchmen       4
+
+                               Speed I       3
+                           World War Z       3
+                           John Wick 2       3
+                            The Matrix       3
+                           Kill Bill 1       3
+                           Kill Bill 2       3
+        The Good, The Bad and The Ugly       3
+                  A Fistful of Dollars       3
+                For a few Dollars More       3
+               Indiana Jones: Lost Ark       3
+                           World War Z       3
+                     Blade Runner 2049       3
+               The Man From U.N.C.L.E.       3
+                             True Grit       3
+                           Three Kings       3
+                 The Dark Knight Rises       3
+                          007: Skyfall       3
+                    007: Casino Royale       3
+                   Lucky Number Slevin       3
+                             The Mummy       3
+
+                                 Logan       2
+                               Warrior       2
+                                Looper       2
+                       Sherlock Holmes       2
+                           King Arthur       2
+                            Kingsman I       2
+   Lock, Stock and Two Smoking Barrels       2
+                    Hell or High Water       2
+
+                          Men in Black       1
+                           I Am Legend       1
+              The Man in the Iron Mask       1
+         Indiana Jones: Temple of Doom       1
+                           John Wick 3       1
+                                   RED       1
+
+/*------------------------------------------------------------------*/
+// Musical section
+
+    Phantom of the Opera (Albert Hall)       5
+                    The Sound of Music       5
+                          My Fair Lady       5
+
+                            La La Land       3
+                        Les Miserables       3
+                     Bohemian Rhapsody       3
+                                Grease       3
+
+                            Funny Face       ?     /Should rewatch
+                              Hamilton       ?     /Should rewatch
+                        A Star is Born       ?     /Should watch
+                  The Greatest Showman       ?     /Should watch
+                             Rocketman       ?     /Should watch
+
+/*------------------------------------------------------------------*/
+// Fantasy section
+
+             Lord of the Rings Trilogy       5
+                       Pan's Labyrinth       5
+
+  The Pirates of the Caribbean Trilogy       4
+                                Avatar       4
+
+                    The Hobbit Trilogy       3
+
+/*------------------------------------------------------------------*/
+// Family-Fantasy section
+
+   Willy Wonka & the Chocolate Factory       5
+
+                               Matilda       4
+                  Bridge to Terabithia       4
+
+  The Lion, the Witch and the Wardrobe       3
+
+                   Night at the Museum       2
+                           The Goonies       2
+
+/*------------------------------------------------------------------*/
+// Cartoon section
+
+                  Over the Garden Wall       5
+
+                        The Lego Movie       4
+                         Spirited Away       4
+                  Howl's Moving Castle       4
+                     The Incredibles I       4
+
+                 Into the Spider-verse       3
+                           Ratatouille       3
+                                WALL-E       3
+
+              Kubo and The Two Strings       2
+          How To Train Your Dragon 1/2       2
+                         Kung Fu Panda       2
+                          Madagascar I       2
+
+                    The Incredibles II       ?     /Should watch
+
+/*------------------------------------------------------------------*/
+// Comedy section
+
+                    Death at a Funeral       5
+                          Office Space       5
+              The Grand Budapest Hotel       5
+                      The Big Lebowski       5
+                           Jojo Rabbit       5
+                              Airplane       5
+                                   Boy       5
+
+                          The Graduate       4
+                        Super Troopers       4
+             What We Do In the Shadows       4
+                       My Cousin Vinny       4
+                        Tropic Thunder       4
+                        The Other Guys       4
+
+                         The Nice Guys       3
+                   The Death of Stalin       3
+                              Hot Fuzz       3
+                  Little Miss Sunshine       3
+                   Kiss Kiss Bang Bang       3
+                    Me, Myself & Irene       3
+             Hunt For the Wilderpeople       3
+                          Galaxy Quest       3
+                   The Hudsucker Proxy       3
+                              Superbad       3
+                               Yes Man       3
+                        21 Jump Street       3
+                        22 Jump Street       3
+                   The Disaster Artist       3
+                            Deadpool I       3
+                           Deadpool II       3
+                  The Naked Gun Movies       3
+                         Groundhog Day       3
+
+                              Plus One       2
+                         Rush Hour 1/2       2
+                    Burn After Reading       2
+            The Men Who Stare at Goats       2
+                             Anchorman       2
+
+                             Get Smart       1
+                            Mean Girls       1
+                             Dodgeball       1
+                  The Whole Nine Yards       1
+                                Easy A       1
+                         Happy Gilmore       1
+                        Police Academy       1
+                         The Interview       1
+                       Horrible Bosses       1
+                         Hail, Caesar!       1
+                            Hangover I       1
+                                   Ted       1
+
+/*------------------------------------------------------------------*/
+// Romance section
+
+              Vicky Cristina Barcelona       3
+                         Love Actually       3
+            10 Things I Hate About You       3
+                         Up in the Air       3
+                    Gone With the Wind       3
+                     Pride & Prejudice       3
+
+                               Charade       2
+
+/*------------------------------------------------------------------*/
+// Drama section
+
+                              Whiplash       5
+         Once upon a time in Hollywood       5
+                            Uncut Gems       5
+                         The Godfather       5
+                       The Descendants       5
+              The Shawshank Redemption       5
+       One Flew Over the Cuckoo's nest       5
+                               Arrival       5
+                             In Bruges       5
+          The Bridge on the River Kwai       5
+                        Cool Hand Luke       5
+
+               The Wolf of Wall Street       4    /Based-on-real-story
+                          Blue Jasmine       4
+                          Pulp Fiction       4
+                        The Green Mile       4
+                          The Wrestler       4
+ Eternal Sunshine of the Spotless Mind       4
+                          Forrest Gump       4
+                       Benjamin Button       4
+                      A Beautiful Mind       4    /Based-on-real-story
+                     Good Will Hunting       4
+                       American Beauty       4
+                               Carnage       4
+                            Life of Pi       4
+                No Country For Old Men       4
+                   There Will Be Blood       4
+                                Flight       4
+                          Citizen Kane       4
+                                 Fargo       4    /Based-on-real-story
+                           The Martian       4
+                 Manchester by the Sea       4
+                            Green Book       4    /Based-on-real-story
+                     Captain Fantastic       4
+                               The Hit       4
+
+                     Midnight in Paris       3
+                              Big Eyes       3
+                   Dirty Pretty Things       3
+                 House of Sand and Fog       3
+                            Sexy Beast       3
+                                  Room       3
+                      The Godfather II       3
+                     Full Metal Jacket       3
+                      Schindler's List       3    /Based-on-real-story
+                   Catch Me If You Can       3    /Based-on-real-story
+                    The Imitation Game       3    /Based-on-real-story
+                               Birdman       3
+     Three Billboards Outside Missouri       3
+                        Phantom Thread       3
+                     Gangs of New York       3
+                    Revolutionary Road       3
+                            The Master       3
+                      Punch-Drunk Love       3
+                  Being John Malkovich       3
+                         The Big Short       3    /Based-on-real-story
+                              Paterson       3
+                                 Sully       3    /Based-on-real-story
+                              24 Hours       3    /Based-on-real-story
+                   Inside Llewyn Davis       3
+                      The Intouchables       3
+            All the Money in the World       3
+
+                          Darkest Hour       2
+                         Almost Famous       2
+                         Into the Wild       2    /Based-on-real-story
+                     The Godfather III       2
+                    Dallas Buyers Club       2    /Based-on-real-story
+                         A Serious Man       2
+                    American History X       2
+                           The Pianist       2    /Based-on-real-story
+                        Marriage Story       2
+                          The Revenant       2
+                               Titanic       2    /Based-on-real-story?
+                           The Aviator       2    /Based-on-real-story
+                                   Her       2
+                          The Irishman       2    /Based-on-real-story
+                                  Argo       2    /Based-on-real-story
+                         Blood Diamond       2
+
+                               Calvary       1
+               Silver Linings Playbook       1
+                       American Hustle       1
+                           The Fighter       1
+                     Crazy Stupid Love       1
+                    The Breakfast Club       1
+
+                         Boogie Nights       ?     /Should rewatch
+                          Sunset Blvd.       ?     /Should watch
+                          
+/*------------------------------------------------------------------*/
+// Thriller/Mystery section
+
+                          12 Angry Men       5
+                     The Hateful Eight       5
+                          Interstellar       5
+                        Apocalypse Now       5
+
+                         Mulholland Dr       4
+                            12 Monkeys       4
+                       American Psycho       4
+                          Annihilation       4
+                        Shutter Island       4
+                             Inception       4
+                               Memento       4
+                              Insomnia       4
+                           Rear Window       4
+                        Dr Strangelove       4
+                    The Brothers Grimm       4
+                                 Joker       4
+                   10 Cloverfield Lane       4
+                            Ex Machina       4
+                           Margin Call       4
+
+                          Blood Simple       3
+                       Wait Until Dark       3
+                           The Shining       3
+                              Parasite       3
+                                  1917       3
+                               Dunkirk       3
+                          The Prestige       3
+                            Fight Club       3
+                               Gravity       3
+                   Slumdog Millionaire       3
+                          The Departed       3
+                                 Tenet       3
+                                  Cube       3
+                     War of the Worlds       3
+                       The Hurt Locker       3
+                           Source Code       3
+                             Cast Away       3
+                             Gone Girl       3
+
+                     Nocturnal Animals       2
+                             Prisoners       2
+                                 Se7en       2
+                                  Exam       2
+                    The Usual Suspects       2
+                        Reservoir Dogs       2
+                            Casablanca       2
+                            Black Swan       2
+
+                           Unbreakable       1
+                            District 9       1
+
+              The Silence of the lambs       ?     /Should rewatch
+
+/*------------------------------------------------------------------*/
+// Horror section
+
+                The Cabin in the Woods       4
+
+                         A Quiet Place       3
+                                 Saw I       3
+
+                               Get Out       2
+                         The Conjuring       2
+
+/*------------------------------------------------------------------*/
+// World cinema
+
+                                Amelie       5     /French
+
+                              Downfall       4     /German
+                              The Hunt       4     /Danish
+                             Incendies       4     /French
+                   The Lives of Others       4     /German
+
+                            Wild Tales       3     /Argentinian
+                          Come and See       3     /Russian
+
+              The Secret in Their Eyes       2     /Argentinian
+
+/*------------------------------------------------------------------*/
+// Documentary section
+
+            Exit Through The Gift Shop         5
+               Searching for Sugar Man         5
+
+                  Finding Vivian Mayer         3
+
+/*------------------------------------------------------------------*/
+// Series
+
+                      Better Call Saul       5     /Drama
+                      The Last Kingdom       5     /Fantasy
+                            The Extras       5     /Comedy
+                    Stranger Things S1       5     /Fantasy
+                             Narcos S1       5     /Drama
+                          Westworld S1       5     /Thriller
+                             Chernobyl       5     /Drama
+                              Deadwood       5     /Drama
+            The Haunting of Hill House       5     /Horror
+            Avatar: The Last Airbender       5     /Cartoon
+                     
+                           The Expanse       4     /Sci-fi
+                                 Barry       4     /Comedy
+                              Watchmen       4     /Action
+                              Hannibal       4     /Crime
+                               Firefly       4     /Sci-fi
+                               Fleabag       4     /Comedy
+                          Burning Love       4     /Comedy
+                              The Wire       4     /Drama
+                       The Office (US)       4     /Comedy
+                  Curb Your Enthusiasm       4     /Comedy
+                              The Boys       4     /Action
+                        Silicon Valley       4     /Comedy
+                   The Legend of Korra       4     /Cartoon
+                        Hercule Poirot       4     /Crime
+
+                  Battlestar Galactica       3     /Sci-fi
+                          Breaking Bad       3     /Drama
+                                Decker       3     /Comedy
+
+                               Lucifer       2     /TV
+                     The Dragon Prince       2     /Cartoon
+                             Lie to Me       2     /TV
+                         The Mentalist       2     /TV
+                    The Queen's Gambit       2     /Drama
+
+                                  Monk       1     /TV
+                           The X-Files       1     /TV
+                               Banshee       1     /TV
