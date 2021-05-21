@@ -64,7 +64,8 @@
 
     Phantom of the Opera (Albert Hall)       5
                     The Sound of Music       5
-                          My Fair Lady       5
+                    
+                          My Fair Lady       4
 
                             La La Land       3
                         Les Miserables       3
@@ -189,6 +190,7 @@
                      Pride & Prejudice       3
 
                                Charade       2
+                        Meet Joe Black       2
 
 /*------------------------------------------------------------------*/
 // Drama section
@@ -325,6 +327,7 @@
                            Source Code       3
                              Cast Away       3
                              Gone Girl       3
+                           Snowpiercer       3
 
                      Nocturnal Animals       2
                              Prisoners       2
@@ -369,10 +372,11 @@
 /*------------------------------------------------------------------*/
 // Documentary section
 
-            Exit Through The Gift Shop         5
-               Searching for Sugar Man         5
-
-                  Finding Vivian Mayer         3
+            Exit Through The Gift Shop       5
+               Searching for Sugar Man       5
+               
+The King of Kong:A Fistful of Quarters       3
+                  Finding Vivian Mayer       3
 
 /*------------------------------------------------------------------*/
 // Series
@@ -407,6 +411,8 @@
                           Breaking Bad       3     /Drama
                                 Decker       3     /Comedy
 
+                           Snowpiercer       2     /Drama
+                         Shadow & Bone       2     /Fantasy
                                Lucifer       2     /TV
                      The Dragon Prince       2     /Cartoon
                              Lie to Me       2     /TV
