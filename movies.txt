@@ -21,7 +21,8 @@
                               Die Hard       4
                            Pacific Rim       4
                               Watchmen       4
-
+                              
+                     The Suicide Squad       3
                                Speed I       3
                            World War Z       3
                            John Wick 2       3
@@ -188,7 +189,8 @@
                          Up in the Air       3
                     Gone With the Wind       3
                      Pride & Prejudice       3
-
+          Guess who's coming to dinner       3
+          
                                Charade       2
                         Meet Joe Black       2
 
@@ -407,6 +409,7 @@ The King of Kong:A Fistful of Quarters       3
                    The Legend of Korra       4     /Cartoon
                         Hercule Poirot       4     /Crime
 
+                              Fargo S3       3     /Drama
                   Battlestar Galactica       3     /Sci-fi
                           Breaking Bad       3     /Drama
                                 Decker       3     /Comedy
