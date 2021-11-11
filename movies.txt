@@ -73,12 +73,6 @@
                      Bohemian Rhapsody       3
                                 Grease       3
 
-                            Funny Face       ?     /Should rewatch
-                              Hamilton       ?     /Should rewatch
-                        A Star is Born       ?     /Should watch
-                  The Greatest Showman       ?     /Should watch
-                             Rocketman       ?     /Should watch
-
 /*------------------------------------------------------------------*/
 // Fantasy section
 
