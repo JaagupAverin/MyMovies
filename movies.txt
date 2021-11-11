@@ -409,7 +409,8 @@ The King of Kong:A Fistful of Quarters       3
                         Silicon Valley       4     /Comedy
                    The Legend of Korra       4     /Cartoon
                         Hercule Poirot       4     /Crime
-
+      
+                         Midnight Mass       3     /Horror
                             Squid Game       3     /Action
                               Fargo S3       3     /Drama
                   Battlestar Galactica       3     /Sci-fi
