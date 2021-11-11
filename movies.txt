@@ -389,6 +389,7 @@ The King of Kong:A Fistful of Quarters       3
             The Haunting of Hill House       5     /Horror
             Avatar: The Last Airbender       5     /Cartoon
                      
+                   The Kominsky Method       4     /Comedy
                            The Expanse       4     /Sci-fi
                                  Barry       4     /Comedy
                               Watchmen       4     /Action
