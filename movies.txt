@@ -116,8 +116,6 @@
                          Kung Fu Panda       2
                           Madagascar I       2
 
-                    The Incredibles II       ?     /Should watch
-
 /*------------------------------------------------------------------*/
 // Comedy section
 
@@ -202,6 +200,7 @@
                              In Bruges       5
           The Bridge on the River Kwai       5
                         Cool Hand Luke       5
+                          12 Angry Men       5
 
                The Wolf of Wall Street       4    /Based-on-real-story
                           Blue Jasmine       4
@@ -227,7 +226,8 @@
                      Captain Fantastic       4
                                The Hit       4
                             The Father       4
-                            
+                         Boogie Nights       4
+                         
                       Inherit the Wind       3
                      Midnight in Paris       3
                               Big Eyes       3
@@ -280,13 +280,11 @@
                      Crazy Stupid Love       1
                     The Breakfast Club       1
 
-                         Boogie Nights       ?     /Should rewatch
                           Sunset Blvd.       ?     /Should watch
                           
 /*------------------------------------------------------------------*/
 // Thriller/Mystery section
 
-                          12 Angry Men       5
                      The Hateful Eight       5
                           Interstellar       5
                         Apocalypse Now       5
@@ -307,6 +305,7 @@
                             Ex Machina       4
                            Margin Call       4
 
+              The Silence of the Lambs       3
                           Blood Simple       3
                        Wait Until Dark       3
                            The Shining       3
@@ -338,8 +337,6 @@
 
                            Unbreakable       1
                             District 9       1
-
-              The Silence of the lambs       ?     /Should rewatch
 
 /*------------------------------------------------------------------*/
 // Horror section
