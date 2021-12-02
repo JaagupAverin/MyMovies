@@ -54,6 +54,7 @@
    Lock, Stock and Two Smoking Barrels       2
                     Hell or High Water       2
 
+                                Nobody       1
                           Men in Black       1
                            I Am Legend       1
               The Man in the Iron Mask       1
@@ -190,25 +191,25 @@
 /*------------------------------------------------------------------*/
 // Drama section
 
-                              Whiplash       5
          Once upon a time in Hollywood       5
                             Uncut Gems       5
                          The Godfather       5
                        The Descendants       5
               The Shawshank Redemption       5
        One Flew Over the Cuckoo's nest       5
-                               Arrival       5
                              In Bruges       5
           The Bridge on the River Kwai       5
                         Cool Hand Luke       5
                           12 Angry Men       5
 
+                              Whiplash       4
                The Wolf of Wall Street       4    /Based-on-real-story
                           Blue Jasmine       4
                           Pulp Fiction       4
                         The Green Mile       4
                           The Wrestler       4
  Eternal Sunshine of the Spotless Mind       4
+                               Arrival       4
                           Forrest Gump       4
                        Benjamin Button       4
                       A Beautiful Mind       4    /Based-on-real-story
