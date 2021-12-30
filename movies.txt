@@ -92,8 +92,8 @@
    Willy Wonka & the Chocolate Factory       5
 
                                Matilda       4
-                  Bridge to Terabithia       4
 
+                  Bridge to Terabithia       3
   The Lion, the Witch and the Wardrobe       3
 
                    Night at the Museum       2
@@ -121,7 +121,6 @@
 /*------------------------------------------------------------------*/
 // Comedy section
 
-                    Death at a Funeral       5
                           Office Space       5
               The Grand Budapest Hotel       5
                       The Big Lebowski       5
@@ -129,6 +128,7 @@
                               Airplane       5
                                    Boy       5
 
+                    Death at a Funeral       4
                           The Graduate       4
                         Super Troopers       4
              What We Do In the Shadows       4
