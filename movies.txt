@@ -230,6 +230,7 @@
                             The Father       4
                          Boogie Nights       4
                          
+                                 Locke       3
                       Inherit the Wind       3
                      Midnight in Paris       3
                               Big Eyes       3
@@ -327,7 +328,8 @@
                              Cast Away       3
                              Gone Girl       3
                            Snowpiercer       3
-
+                      
+                               The Hit       2
                      Nocturnal Animals       2
                              Prisoners       2
                                  Se7en       2
