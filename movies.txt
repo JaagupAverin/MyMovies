@@ -226,7 +226,6 @@
                  Manchester by the Sea       4
                             Green Book       4    /Based-on-real-story
                      Captain Fantastic       4
-                               The Hit       4
                             The Father       4
                          Boogie Nights       4
                          
@@ -407,13 +406,16 @@ The King of Kong:A Fistful of Quarters       3
                    The Legend of Korra       4     /Cartoon
                         Hercule Poirot       4     /Crime
       
+                    Brooklyn Nine-Nine       3     /Comedy
                          Midnight Mass       3     /Horror
                             Squid Game       3     /Action
                               Fargo S3       3     /Drama
                   Battlestar Galactica       3     /Sci-fi
                           Breaking Bad       3     /Drama
                                 Decker       3     /Comedy
-
+                            Peacemaker       3     /Action
+                            
+                            After Life       2     /Comedy
                            Snowpiercer       2     /Drama
                          Shadow & Bone       2     /Fantasy
                                Lucifer       2     /TV
@@ -421,7 +423,8 @@ The King of Kong:A Fistful of Quarters       3
                              Lie to Me       2     /TV
                          The Mentalist       2     /TV
                     The Queen's Gambit       2     /Drama
-
+                        Peaky Blinders       2     /Action drama
+                        
                                   Monk       1     /TV
                            The X-Files       1     /TV
                                Banshee       1     /TV
