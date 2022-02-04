@@ -1,10 +1,9 @@
                                  Name    Score
-                                         5 - Highly rewatchable, all time gold, Whoop-whoop!
+                                         5 - All time gold, Whoop-whoop!
                                          4 - Great
                                          3 - Good
                                          2 - Decent but forgettable
                                          1 - Bad; watchable if nothing else to do
-                                         0 - Not on this list
 
 /*------------------------------------------------------------------*/
 // Drama section
