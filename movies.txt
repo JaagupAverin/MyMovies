@@ -7,6 +7,100 @@
                                          0 - Not on this list
 
 /*------------------------------------------------------------------*/
+// Drama section
+
+         Once upon a time in Hollywood       5
+                            Uncut Gems       5
+                         The Godfather       5
+                       The Descendants       5
+              The Shawshank Redemption       5
+       One Flew Over the Cuckoo's nest       5
+                             In Bruges       5
+          The Bridge on the River Kwai       5
+                        Cool Hand Luke       5
+                          12 Angry Men       5
+
+                              Whiplash       4
+               The Wolf of Wall Street       4    /Based-on-real-story
+                          Blue Jasmine       4
+                          Pulp Fiction       4
+                        The Green Mile       4
+                          The Wrestler       4
+ Eternal Sunshine of the Spotless Mind       4
+                               Arrival       4
+                          Forrest Gump       4
+                       Benjamin Button       4
+                      A Beautiful Mind       4    /Based-on-real-story
+                     Good Will Hunting       4
+                       American Beauty       4
+                               Carnage       4
+                            Life of Pi       4
+                No Country For Old Men       4
+                   There Will Be Blood       4
+                                Flight       4
+                          Citizen Kane       4
+                                 Fargo       4    /Based-on-real-story
+                           The Martian       4
+                 Manchester by the Sea       4
+                            Green Book       4    /Based-on-real-story
+                     Captain Fantastic       4
+                            The Father       4
+                         Boogie Nights       4
+                         
+                                 Locke       3
+                      Inherit the Wind       3
+                     Midnight in Paris       3
+                              Big Eyes       3
+                   Dirty Pretty Things       3
+                 House of Sand and Fog       3
+                            Sexy Beast       3
+                                  Room       3
+                      The Godfather II       3
+                     Full Metal Jacket       3
+                      Schindler's List       3    /Based-on-real-story
+                   Catch Me If You Can       3    /Based-on-real-story
+                    The Imitation Game       3    /Based-on-real-story
+                               Birdman       3
+     Three Billboards Outside Missouri       3
+                        Phantom Thread       3
+                     Gangs of New York       3
+                    Revolutionary Road       3
+                            The Master       3
+                      Punch-Drunk Love       3
+                  Being John Malkovich       3
+                         The Big Short       3    /Based-on-real-story
+                              Paterson       3
+                                 Sully       3    /Based-on-real-story
+                              24 Hours       3    /Based-on-real-story
+                   Inside Llewyn Davis       3
+                      The Intouchables       3
+            All the Money in the World       3
+
+                          Darkest Hour       2
+                         Almost Famous       2
+                         Into the Wild       2    /Based-on-real-story
+                     The Godfather III       2
+                    Dallas Buyers Club       2    /Based-on-real-story
+                         A Serious Man       2
+                    American History X       2
+                           The Pianist       2    /Based-on-real-story
+                        Marriage Story       2
+                          The Revenant       2
+                               Titanic       2    /Based-on-real-story?
+                           The Aviator       2    /Based-on-real-story
+                                   Her       2
+                          The Irishman       2    /Based-on-real-story
+                                  Argo       2    /Based-on-real-story
+                         Blood Diamond       2
+
+                               Calvary       1
+               Silver Linings Playbook       1
+                       American Hustle       1
+                           The Fighter       1
+                     Crazy Stupid Love       1
+                    The Breakfast Club       1
+                    
+/*------------------------------------------------------------------*/
 // Action section
 
                    Inglorious Basterds       5
@@ -187,102 +281,6 @@
           
                                Charade       2
                         Meet Joe Black       2
-
-/*------------------------------------------------------------------*/
-// Drama section
-
-         Once upon a time in Hollywood       5
-                            Uncut Gems       5
-                         The Godfather       5
-                       The Descendants       5
-              The Shawshank Redemption       5
-       One Flew Over the Cuckoo's nest       5
-                             In Bruges       5
-          The Bridge on the River Kwai       5
-                        Cool Hand Luke       5
-                          12 Angry Men       5
-
-                              Whiplash       4
-               The Wolf of Wall Street       4    /Based-on-real-story
-                          Blue Jasmine       4
-                          Pulp Fiction       4
-                        The Green Mile       4
-                          The Wrestler       4
- Eternal Sunshine of the Spotless Mind       4
-                               Arrival       4
-                          Forrest Gump       4
-                       Benjamin Button       4
-                      A Beautiful Mind       4    /Based-on-real-story
-                     Good Will Hunting       4
-                       American Beauty       4
-                               Carnage       4
-                            Life of Pi       4
-                No Country For Old Men       4
-                   There Will Be Blood       4
-                                Flight       4
-                          Citizen Kane       4
-                                 Fargo       4    /Based-on-real-story
-                           The Martian       4
-                 Manchester by the Sea       4
-                            Green Book       4    /Based-on-real-story
-                     Captain Fantastic       4
-                            The Father       4
-                         Boogie Nights       4
-                         
-                                 Locke       3
-                      Inherit the Wind       3
-                     Midnight in Paris       3
-                              Big Eyes       3
-                   Dirty Pretty Things       3
-                 House of Sand and Fog       3
-                            Sexy Beast       3
-                                  Room       3
-                      The Godfather II       3
-                     Full Metal Jacket       3
-                      Schindler's List       3    /Based-on-real-story
-                   Catch Me If You Can       3    /Based-on-real-story
-                    The Imitation Game       3    /Based-on-real-story
-                               Birdman       3
-     Three Billboards Outside Missouri       3
-                        Phantom Thread       3
-                     Gangs of New York       3
-                    Revolutionary Road       3
-                            The Master       3
-                      Punch-Drunk Love       3
-                  Being John Malkovich       3
-                         The Big Short       3    /Based-on-real-story
-                              Paterson       3
-                                 Sully       3    /Based-on-real-story
-                              24 Hours       3    /Based-on-real-story
-                   Inside Llewyn Davis       3
-                      The Intouchables       3
-            All the Money in the World       3
-
-                          Darkest Hour       2
-                         Almost Famous       2
-                         Into the Wild       2    /Based-on-real-story
-                     The Godfather III       2
-                    Dallas Buyers Club       2    /Based-on-real-story
-                         A Serious Man       2
-                    American History X       2
-                           The Pianist       2    /Based-on-real-story
-                        Marriage Story       2
-                          The Revenant       2
-                               Titanic       2    /Based-on-real-story?
-                           The Aviator       2    /Based-on-real-story
-                                   Her       2
-                          The Irishman       2    /Based-on-real-story
-                                  Argo       2    /Based-on-real-story
-                         Blood Diamond       2
-
-                               Calvary       1
-               Silver Linings Playbook       1
-                       American Hustle       1
-                           The Fighter       1
-                     Crazy Stupid Love       1
-                    The Breakfast Club       1
-
-                          Sunset Blvd.       ?     /Should watch
                           
 /*------------------------------------------------------------------*/
 // Thriller/Mystery section
