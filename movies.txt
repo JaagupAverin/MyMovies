@@ -213,6 +213,8 @@
                            Ratatouille       3
                                 WALL-E       3
 
+
+       The BobSponge SquarePants Movie       2
               Kubo and The Two Strings       2
           How To Train Your Dragon 1/2       2
                          Kung Fu Panda       2
@@ -278,6 +280,7 @@
 /*------------------------------------------------------------------*/
 // Romance section
 
+                  The Edge Of Seventeen      3
               Vicky Cristina Barcelona       3
                          Love Actually       3
             10 Things I Hate About You       3
