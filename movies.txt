@@ -280,6 +280,8 @@
 /*------------------------------------------------------------------*/
 // Romance section
 
+                         Licorice Pizza      4
+                         
                   The Edge Of Seventeen      3
               Vicky Cristina Barcelona       3
                          Love Actually       3
@@ -398,7 +400,8 @@ The King of Kong:A Fistful of Quarters       3
             The Haunting of Hill House       5     /Horror
             Avatar: The Last Airbender       5     /Cartoon
                              Severance       5     /Thriller
-                             
+             What We Do In The Shadows       5     /Comedy
+             
                    The Kominsky Method       4     /Comedy
                            The Expanse       4     /Sci-fi
                                  Barry       4     /Comedy
