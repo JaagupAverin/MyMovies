@@ -181,7 +181,8 @@
 
              Lord of the Rings Trilogy       5
                        Pan's Labyrinth       5
-
+              Avatar: The way of water       5
+              
   The Pirates of the Caribbean Trilogy       4
                                 Avatar       4
 
@@ -204,7 +205,8 @@
 // Cartoon section
 
                   Over the Garden Wall       5
-
+          Puss In Boots: The Last Wish       5
+         
                         The Lego Movie       4
                          Spirited Away       4
                   Howl's Moving Castle       4
@@ -403,6 +405,7 @@ The King of Kong:A Fistful of Quarters       3
             Avatar: The Last Airbender       5     /Cartoon
                              Severance       5     /Thriller
              What We Do In The Shadows       5     /Comedy
+                      Raised By Wolves       5     /Sci-Fi
              
                    The Kominsky Method       4     /Comedy
                            The Expanse       4     /Sci-fi
