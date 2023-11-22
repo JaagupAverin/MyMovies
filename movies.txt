@@ -8,6 +8,8 @@
 /*------------------------------------------------------------------*/
 // Drama section
 
+                          Perfect Days       5
+                          The Peasants       5
          Once upon a time in Hollywood       5
                             Uncut Gems       5
                          The Godfather       5
@@ -283,6 +285,7 @@
 
 /*------------------------------------------------------------------*/
 // Romance section
+                          Fallen Leaves      5
 
                          Licorice Pizza      4
                          
