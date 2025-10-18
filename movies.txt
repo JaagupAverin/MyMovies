@@ -52,7 +52,10 @@
                      Captain Fantastic       4
                             The Father       4
                          Boogie Nights       4
-                         
+             Aguirre, the Wrath of God       4
+                           Oppenheimer       4
+
+                        I'm Still Here       3
                            Still Alice       3
                                  Locke       3
                       Inherit the Wind       3
@@ -114,6 +117,8 @@
                     Mad Max: Fury Road       5
                        The Dark Knight       5
                            John Wick 1       5
+              One Battle After Another       5
+                               Sinners       5
 
                          Batman Begins       4
                       Django Unchained       4
@@ -213,7 +218,8 @@
                         The Lego Movie       4
                          Spirited Away       4
                   Howl's Moving Castle       4
-                  
+
+                                  Flow       3
                      The Incredibles I       3
                     My Neighbor Totoro       3
                  Into the Spider-verse       3
@@ -238,6 +244,7 @@
                               Airplane       5
                                    Boy       5
 
+                                Barbie       4
                     Death at a Funeral       4
                           The Graduate       4
                         Super Troopers       4
@@ -390,8 +397,11 @@
 
             Exit Through The Gift Shop       5
                Searching for Sugar Man       5
-               
-The King of Kong:A Fistful of Quarters       3
+                  Rebel with a Bow Tie       5
+
+The King of Kong:A Fistful of Quarters       4
+
+                           Grizzly Man       3
                   Finding Vivian Mayer       3
 
 /*------------------------------------------------------------------*/
